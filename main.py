@@ -9,7 +9,7 @@ import faiss
 app = FastAPI()
 
 
-API_KEY = 'aa-3sgBf8IxObkRyorUpVifD39z5yzQwBg78nwO9xqwSQdhCjDK'
+API_KEY = ''
 BASE_URL = "https://api.avalai.ir/v1"
 HEADERS = {
     "Authorization": f"Bearer {API_KEY}",
